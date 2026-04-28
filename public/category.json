@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk",
+    "slug": "cyberpunk"
+  },
+  {
+    "id": 2,
+    "name": "Fantasy",
+    "slug": "fantasy"
+  },
+  {
+    "id": 3,
+    "name": "Minimal",
+    "slug": "minimal"
+  },
+  {
+    "id": 4,
+    "name": "Portrait",
+    "slug": "portrait"
+  },
+  {
+    "id": 5,
+    "name": "Sci-Fi",
+    "slug": "sci-fi"
+  },
+  {
+    "id": 6,
+    "name": "Abstract",
+    "slug": "abstract"
+  },
+  {
+    "id": 7,
+    "name": "Anime",
+    "slug": "anime"
+  },
+  {
+    "id": 8,
+    "name": "Nature",
+    "slug": "nature"
+  },
+  {
+    "id": 9,
+    "name": "3D Render",
+    "slug": "3d-render"
+  }
+]
