@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Neon Samurai in Tokyo",
-    "imageUrl": "https://images.unsplash.com/photo-1549880181-56a44cf4a9a9",
+"imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop",
     "prompt": "A futuristic samurai standing in neon-lit Tokyo streets, cyberpunk style",
     "category": "cyberpunk",
     "model": "Midjourney v6",
